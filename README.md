@@ -12,5 +12,5 @@ Zayed Aldhaheri
 
 ---
 
-## Conents
+## Contents
 Includes every code exercise done in this course.
