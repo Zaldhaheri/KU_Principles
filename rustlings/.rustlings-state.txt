@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-functions1
+if1
 
 intro1
 intro2
@@ -10,6 +10,11 @@ variables3
 variables4
 variables5
 variables6
+functions1
+functions2
+functions3
+functions4
+functions5
 move_semantics1
 move_semantics2
 move_semantics3
