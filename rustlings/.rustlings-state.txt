@@ -43,3 +43,5 @@ strings2
 strings3
 options1
 options2
+generics1
+generics2
